@@ -1,5 +1,4 @@
-n = int(input("Enter Number
-").strip())
+n = int(input("Enter Number").strip())
 check = {True: "Not Weird", False: "Weird"}
 
 print(check[
